@@ -11882,11 +11882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hemant/myWebApp/myWebApp.csproj",
+      "projectUniqueName": "/home/hemant/dotnetapp/myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "/home/hemant/myWebApp/myWebApp.csproj",
+      "projectPath": "/home/hemant/dotnetapp/myWebApp.csproj",
       "packagesPath": "/home/hemant/.nuget/packages/",
-      "outputPath": "/home/hemant/myWebApp/obj/",
+      "outputPath": "/home/hemant/dotnetapp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
